@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pradeepk5007.github.io/Soar-Kafe-Web-Site-/sitemap.xml
